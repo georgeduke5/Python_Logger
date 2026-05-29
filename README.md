@@ -214,5 +214,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **George Duke**  
-Senior Software Engineer | Staff Software Architect  
+Software Architect  
 [GitHub](https://github.com/georgeduke5)
